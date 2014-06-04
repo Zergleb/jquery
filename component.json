@@ -1,0 +1,12 @@
+{
+  "name": "angulartics.google.analytics",
+  "repo": "ndnhat/component-angulartics-ga",
+  "description": "Componentized Google Analytics plugin for Angulartics",
+  "version": "0.15.18",
+  "keywords": ["angulartics, google analytics, component"],
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}

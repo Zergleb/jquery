@@ -1,9 +1,9 @@
 {
-  "name": "angulartics.google.analytics",
-  "repo": "ndnhat/component-angulartics-ga",
-  "description": "Componentized Google Analytics plugin for Angulartics",
-  "version": "0.15.18",
-  "keywords": ["angulartics, google analytics, component"],
+  "name": "jquery",
+  "repo": "zergleb/jquery",
+  "description": "Componentized jquery",
+  "version": "1.11.1",
+  "keywords": ["jquery, sizzle"],
   "dependencies": {},
   "scripts": [
     "index.js"

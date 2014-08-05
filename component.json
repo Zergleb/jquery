@@ -1,6 +1,6 @@
 {
   "name": "jquery",
-  "repo": "zergleb/jquery",
+  "repo": "Zergleb/jquery",
   "description": "Componentized jquery",
   "version": "1.11.1",
   "keywords": ["jquery, sizzle"],

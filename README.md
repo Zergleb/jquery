@@ -1,4 +1,4 @@
-component-angulartics-ga
+component-jquery
 ========================
 
-Componentized Google Analytics plugin for Angulartics. http://luisfarzati.github.io/angulartics
+Componentized JQuery. http://jquery.com/
